@@ -1,4 +1,4 @@
-name: DataSketches-Java 8 Auto OS Matrix Test & Install
+name: DataSketches-Java Auto OS Matrix Test & Install
 
 on:
     pull_request:
